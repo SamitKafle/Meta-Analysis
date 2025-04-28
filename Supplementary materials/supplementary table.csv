@@ -1,0 +1,15 @@
+ID,Author,Location,TLS_mean,TLS_SD,DEST_mean,DEST_SD,ALLOM_mean,ALLOM_SD,type,equation_type,n,mean_dbh,scanner_type,QSM
+1,Burt et al.(2021),Brazil,9044.5,6570.2,9114.5,6574.6,9971.5,12306.2,needleleaf,species-specific,4,85.7,RIEGL,TreeQSM
+2,Demol et al.(2021a),Belgium,588.7,351.6,471.9,281.4,785.3,547.8,needleleaf,pantropical,30,27.6,RIEGL,TreeQSM
+3,Demol et al.(2021b),Belgium,549.4,396.5,490.7,342.0,839.0,335.2,broadleaf,pantropical,15,30.84,RIEGL,TreeQSM
+4,Gonzalez de Tanago et al. (2018),Peru,9089.9,8732.0,8732.0,8047.5,9440.2,7369.4,needleleaf,species-specific,24,70.82,RIEGL,TreeQSM
+5,Hackenberg et al. (2015a),Germany,541.8,120.3,483.2,101.1,765.4,277.7,needleleaf,species-specific,12,28.22,Zoller and Froehlich Imager,Simple forest
+6,Hackenberg et al. (2015b),China,392.3,243.9,313.0,157.1,608.0,165.9,broadleaf,pantropical,32,26.61,Zoller and Froehlich Imager,Simple forest
+7,Kukenbrink et al.(2021),Switzerland,2084.9,2214.2,2304.1,2371.8,3034.4,3770.5,needleleaf,pantropical,54,58.58,RIEGL,TreeQSM
+8,Lau et al. (2019),Guyana,7115.1,7522.7,6913.8,7217.5,7517.2,9189.0,needleleaf,species-specific,22,60.34,RIEGL,TreeQSM
+9,Lau et al. (2021),Suriname,2108.4,1715.6,1996.7,1671.0,2387.6,1709.3,needleleaf,species-specific,17,39.09,RIEGL,TreeQSM
+10,Stovall et al. (2017),US,182.7,121.3,183.6,122.1,417.9,148.4,broadleaf,pantropical,21,21.44,FARO Focus,TreeQSM
+11,Calders et al. (2015),Australia,1164.7,851.2,1061.8,849.7,1414.0,713.8,needleleaf,species-specific,65,35.22,RIEGL,TreeQSM
+12,Momo Takoudjou et al. (2017),Cameroon,6688.6,10656.2,6648.6,10984.1,7604.8,13900.9,needleleaf,pantropical,61,59.41,Leica,Simple forest
+13,Kankare et al. (2013),Finland,293.3,185.3,285.3,150.9,492.9,385.3,broadleaf,pantropical,64,26.3,Leica,TreeQSM
+14,Seidel et al. (2013),Germany,86.9,21.9,95.6,22.0,115.2,52.5,needleleaf,pantropical,15,3.7,Zoller and Froehlich Imager,TreeQSM
